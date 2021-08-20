@@ -27,7 +27,7 @@ class ContactPage extends Component {
               </div>
               <div className="contact-page__email">
                 <FaEnvelope />
-                <p>johnwilliamslaw@gmail.com</p>
+                <p>asimdeo@asimdeoandassociates.com</p>
               </div>
             </div>
             <div className="col-md-7">
