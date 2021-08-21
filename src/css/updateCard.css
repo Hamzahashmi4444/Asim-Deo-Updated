@@ -14,6 +14,7 @@
 .update-card-text {
   font-size: 1rem !important;
   font-weight: normal;
+  text-align: justify;
 }
 @media only screen and (min-width: 450px) {
   .update-card {
