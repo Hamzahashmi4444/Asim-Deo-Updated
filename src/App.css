@@ -118,6 +118,7 @@ a:hover {
 
 .content-1 h4 {
   font-size: 1.4em;
+  text-align: center;
 }
 
 .content-2 {
@@ -152,6 +153,7 @@ a:hover {
   opacity: 0.9;
   padding: 25px 50px;
   border: 1px solid bisque;
+  text-align: center;
 }
 
 .content-3 h1 {
@@ -185,6 +187,7 @@ a:hover {
   max-width: 800px;
   margin: 5% auto;
   font-size: 1.2em;
+  text-align: center;
 }
 
 .bottom-content {
@@ -356,6 +359,7 @@ p#img-p-jail-cell {
   margin: auto;
   color: #333;
   padding: 0px 20px;
+  text-align: justify;
 }
 
 /* personal injury page */
