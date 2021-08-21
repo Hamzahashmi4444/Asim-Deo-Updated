@@ -7,16 +7,6 @@ class HomePage extends Component {
     return (
       <div className="homePage">
         <div className="top-half">
-          <div className="top-content">
-            <div className="content-1">
-              <h4>
-                <span>
-                  "Injustice anywhere is a threat to justice everywhere. Martin
-                  Luther King, Jr."
-                </span>
-              </h4>
-            </div>
-          </div>
           <div className="content-3">
             <h1>Ch Asim Iqbal</h1>
             <h2>ATTORNEY AT LAW</h2>
