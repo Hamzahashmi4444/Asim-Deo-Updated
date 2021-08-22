@@ -19,7 +19,7 @@ class AboutPage extends Component {
                 Courts having expertise in the field of corporate consultancy
                 and Criminal Cases. Mr. Iqbal has successfully participated in
                 cases as team leader . He is the head of corporate consultancy
-                and criminal Litigation Cell in the province of Punjab
+                and criminal Litigation Cell.
               </p>
             </div>
           </div>
