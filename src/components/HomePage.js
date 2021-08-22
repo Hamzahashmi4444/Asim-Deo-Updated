@@ -15,7 +15,8 @@ class HomePage extends Component {
               analysis, mergers and acquisitions, and advising clients from
               business start-ups to seasoned companies. Provides expert advice
               and oversight in large corporate negotiations. Brings 10 years of
-              experience in a wide variety of corporate law areas.b
+              experience in a wide variety of corporate law areas.
+
             </h4>
           </div>
         </div>
